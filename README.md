@@ -3,6 +3,7 @@
 # Punto 1
 
 En estas imagenes se nota que al poner valores (pares y positivos) se juntan a la suma, y se suman, pero si no es ni par ni positivo, no se suma y aparece explicitamente que no hara parte de la suma.
+
 <img width="341" height="182" alt="image" src="https://github.com/user-attachments/assets/c3791f93-8979-4b5d-9fd1-9e3274795253" /> <img width="305" height="179" alt="image" src="https://github.com/user-attachments/assets/718eb72a-d5b2-40ab-9b51-24e734200f5c" />
 
 # Punto 2
